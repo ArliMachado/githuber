@@ -57,7 +57,7 @@ export default class Welcome extends Component {
     return (
       <View style={styles.container}>
         <StatusBar barStyle="light-content" />
-        <Text style={styles.title}>Bom-vindo</Text>
+        <Text style={styles.title}>Bem-vindo</Text>
         <Text style={styles.text}>
           Para continuar precisamos que você informe seu usuário no GitHub.
         </Text>
